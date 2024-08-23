@@ -1,3 +1,6 @@
+// Code with Mock Data 
+
+
 // document.getElementById('searchButton').addEventListener('click', function() {
 //     const query = document.getElementById('searchQuery').value.trim();
 //     if (!query) return;
@@ -61,7 +64,7 @@
 //   }
 
 
-
+// Code with GitHub API
 document.getElementById('searchButton').addEventListener('click', function() {
   const query = document.getElementById('searchQuery').value.trim();
   if (!query) return;
